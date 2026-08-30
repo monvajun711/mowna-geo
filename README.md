@@ -2,6 +2,24 @@
 
 面向 Codex 的赛博盆景 Skill：把盆景图片转成可解释的量化评分、四观审美诊断、地域流派匹配、因树施策养护建议和可视化评鉴报告，并支持选择驱动的赛博盆景游戏规则。
 
+## 魔女花道：插花作品评分 Skill
+
+[witch-floral-judge/](witch-floral-judge/) 是可单独上架 GitHub 的 Codex Skill，面向插花、花艺、池坊/花道和中国传统插花作品的图片评分与改进反馈。
+
+它提供：
+
+- 默认 100 分四域量表：创意与题意、构成与空间、色彩与表达、技术与材料；
+- 中国传统插花、现代花艺、Ikenobo 等流派适配；
+- 正面/侧面/背面/底部等图片证据协议，照片不足时自动降级为暂定视觉评分；
+- 规则合规与审美分离、证据 ID、置信度、未评项目和可复算 JSON 输出；
+- scripts/calculate_score.py 评分复算与 scripts/self_test.py 包结构自检。
+
+直接调用：
+
+    $witch-floral-judge
+
+完整说明见 [witch-floral-judge/SKILL.md](witch-floral-judge/SKILL.md)。
+
 ## 直接使用
 
 Skill 入口在 [`bonsai-vision-master/SKILL.md`](bonsai-vision-master/SKILL.md)。将整个 `bonsai-vision-master` 文件夹放入 Codex 的 skills 目录，或在项目中按本地 Skill 使用：

@@ -1,0 +1,7 @@
+interface:
+  display_name: "魔女花道"
+  short_description: "用图片和规则对插花作品进行可解释、公平的评分与改进建议"
+  brand_color: "#9B5DE5"
+  default_prompt: "Use $witch-floral-judge to score this floral arrangement image with evidence, style-aware criteria, and actionable feedback."
+policy:
+  allow_implicit_invocation: true
