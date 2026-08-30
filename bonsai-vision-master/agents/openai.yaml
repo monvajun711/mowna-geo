@@ -1,0 +1,7 @@
+interface:
+  display_name: "魔女一寸山河"
+  short_description: "看图量化评分、流派审美、修剪养护与赛博盆景方案生成"
+  brand_color: "#B6FF5C"
+  default_prompt: "Use $bonsai-vision-master to evaluate this bonsai image and return a visual score report with care and styling advice."
+policy:
+  allow_implicit_invocation: true

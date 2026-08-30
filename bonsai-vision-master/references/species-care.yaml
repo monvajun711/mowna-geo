@@ -1,0 +1,167 @@
+version: "1.0"
+scope: "决策支持，不是固定日历。当地气候、介质、盆深、近期作业和实际芽势优先。"
+global_rules:
+  watering: "不按每天几次的固定表浇水；按树种阈值检查介质，需水时浇透并确保排水。"
+  major_work: "每次只施加一个主要胁迫；弱树先复壮。"
+  diagnosis: "图片只能提示症状，不能确认根况、含水量、虫害或病原。"
+groups:
+  chinese_elm:
+    names: ["榔榆", "小叶榆", "Chinese elm"]
+    latin: "Ulmus parvifolia"
+    traits: "落叶或半常绿杂木；萌芽强、耐修剪，适合细枝化。"
+    placement: "优先室外强光通风；酷热区午后适当遮阴。温带来源通常需休眠。"
+    water: "表层开始变干后浇透，避免长期干旱或持续积水。"
+    pruning: "生长期新梢 3–4 节后回剪至 1–2 叶；大枝剪仅在强树的合适窗口。"
+    repot: "常见窗口为春季萌动前，频率按根满盆程度而非年龄表。"
+    warning: "强剪后先看恢复芽势，不立即重肥。"
+    source_ids: ["RHS-BONSAI", "BE-CHINESE-ELM"]
+  ficus:
+    names: ["榕树", "榕", "Ficus"]
+    latin: "Ficus spp."
+    traits: "热带常绿；强光高温时旺长，可回剪与培养气根。"
+    placement: "无霜、高光；低于约 15°C 避免冷风与骤变。"
+    water: "介质略干再浇透；温暖旺长时耗水高，低温弱光时减少。"
+    pruning: "旺长期回剪；全摘叶只用于树种合适、树势强且后续光照足的树。"
+    repot: "温暖稳定、进入旺长时处理，避开寒冷期重修根。"
+    warning: "低光下重剪或持续湿冷易衰弱。"
+    source_ids: ["RHS-BONSAI", "BE-FICUS"]
+  juniper:
+    names: ["真柏", "刺柏", "圆柏", "Juniper"]
+    latin: "Juniperus spp."
+    traits: "常绿针叶；必须室外，活脉与枯木可成为审美核心。"
+    placement: "全年室外充足日照和通风；依品种与最低温保护根部。"
+    water: "介质略干再浇透，忌长期湿涝；喷水不能替代根部浇水。"
+    pruning: "不可把全部绿色剪回无叶老枝；大弯前确认活脉与树势。"
+    repot: "当地适宜萌动窗口，保留足够活根；弱树不重修。"
+    warning: "叶色反应可能滞后，表面绿不等于根系健康。"
+    source_ids: ["BE-JUNIPER", "RHS-BONSAI"]
+  pine:
+    names: ["黑松", "五针松", "赤松", "Pine"]
+    latin: "Pinus spp."
+    traits: "不同松种生长周期和切芽法差异很大。"
+    placement: "全年室外强光、通风，避免长期遮阴。"
+    water: "排水良好、干湿有节，不让根团长期干透。"
+    pruning: "先确定松种及生长模式，再决定疏芽、切芽、摘针或回剪。"
+    repot: "多在根系开始活动而新梢未完全展开的当地窗口。"
+    warning: "不要把黑松切芽日程套给五针松；勿同时大量去针和修根。"
+    source_ids: ["BE-PINE", "RHS-BONSAI"]
+  podocarpus:
+    names: ["罗汉松", "雀舌罗汉松", "Podocarpus"]
+    latin: "Podocarpus macrophyllus"
+    traits: "常绿、耐剪、枝叶细密，常见于扬派、通派与海派。"
+    placement: "暖季室外明亮通风；寒地防冻，避免长期暗室。"
+    water: "均匀但不积水；高温风大时增加检查。"
+    pruning: "旺长后回剪；蟠扎勤查勒痕，老枝弯曲分阶段。"
+    repot: "暖季生长启动前后按当地经验；弱树先复壮。"
+    warning: "云片不等于同尺寸厚饼。"
+    source_ids: ["CN-NANTONG-2019", "RHS-BONSAI"]
+  sageretia:
+    names: ["雀梅", "Sageretia"]
+    latin: "Sageretia theezans"
+    traits: "暖性杂木；萌芽强、枝细，岭南常用。"
+    placement: "强光通风；寒冷地区越冬保护。"
+    water: "不长期干透，也不积水；叶量大时耗水变化快。"
+    pruning: "蓄至目标粗度再截，保留恢复叶量；细枝老化后逐步更新。"
+    repot: "温暖生长启动期，避免与重截同期。"
+    warning: "退枝或新梢无力时停止造型，先查根、水、光。"
+    source_ids: ["CN-LINGNAN-HUNAN-2010", "RHS-BONSAI"]
+  boxwood:
+    names: ["黄杨", "瓜子黄杨", "Boxwood"]
+    latin: "Buxus spp."
+    traits: "常绿阔叶、叶小、长速偏慢；精细但恢复需耐心。"
+    placement: "明亮户外；酷暑防盆土过热与午后暴晒。"
+    water: "均匀湿润且排水良好。"
+    pruning: "回剪到有叶或可靠芽点；大伤口分年处理。"
+    repot: "根满盆且树势强时，在温和窗口处理。"
+    warning: "一次重剪会留下长期空洞；病虫需实物诊断。"
+    source_ids: ["RHS-BONSAI"]
+  murraya:
+    names: ["九里香", "月橘", "Orange jasmine"]
+    latin: "Murraya paniculata"
+    traits: "热带亚热带常绿花木；萌芽与香花兼具。"
+    placement: "温暖、日照足、通风；不耐霜。"
+    water: "旺长与花期稳定供水，介质必须排水。"
+    pruning: "花后或旺长期回剪，兼顾花芽；蓄枝截干保留恢复叶量。"
+    repot: "暖季稳定生长时按根况处理。"
+    warning: "低温弱光时不重剪、重肥。"
+    source_ids: ["CN-LINGNAN-HUNAN-2010", "RHS-BONSAI"]
+  fukien_tea:
+    names: ["福建茶", "基及树", "Fukien tea"]
+    latin: "Ehretia microphylla / Carmona retusa"
+    traits: "热带常绿小叶树；对环境突变与冷湿敏感。"
+    placement: "温暖高光，防寒风和频繁搬动。"
+    water: "介质略干即检查，既怕干透也怕闷湿。"
+    pruning: "健康旺长时轻剪促分枝；弱树不摘叶。"
+    repot: "温暖生长期谨慎处理，避免大幅洗根。"
+    warning: "掉叶先查光温水与搬动史，不连续补水施肥。"
+    source_ids: ["RHS-BONSAI"]
+  azalea:
+    names: ["杜鹃", "皋月杜鹃", "Azalea"]
+    latin: "Rhododendron spp."
+    traits: "喜酸、细根花木；花、叶、枝、根的作业节律特殊。"
+    placement: "明亮通风，炎热午后遮阴。"
+    water: "细根不耐干透也忌缺氧积水；优先低盐水。"
+    pruning: "通常花后整形并保留后续花芽形成窗口。"
+    repot: "按当地成熟做法，避免花、重剪、重修根同时发生。"
+    warning: "未确认基质与水质前，不给固定肥药方案。"
+    source_ids: ["RHS-BONSAI"]
+  maple:
+    names: ["鸡爪槭", "三角枫", "Maple"]
+    latin: "Acer palmatum / Acer buergerianum"
+    traits: "落叶杂木；根盘、枝级与季相重要，嫩叶怕风灼。"
+    placement: "春秋明亮；盛夏依气候遮午后强光并避热风。"
+    water: "新叶和炎热期稳定供水但不积水。"
+    pruning: "结构剪、摘芽、回剪、摘叶分开；仅强树考虑局部摘叶。"
+    repot: "常在芽膨大至萌动前的窄窗口。"
+    warning: "高温期重剪和全摘叶风险高；大剪口可能回枯。"
+    source_ids: ["RHS-BONSAI"]
+  pomegranate:
+    names: ["石榴", "Pomegranate"]
+    latin: "Punica granatum"
+    traits: "落叶或半落叶花果木；需在结果与细枝间取舍。"
+    placement: "充足日照有利花果与紧凑生长。"
+    water: "生长结果期避免剧烈干湿波动。"
+    pruning: "兼顾花芽位置；挂果过多时疏果。"
+    repot: "休眠末期至萌动前按根况处理。"
+    warning: "满树果实不自动等于高艺术分。"
+    source_ids: ["BE-OUTDOOR", "RHS-BONSAI"]
+  crape_myrtle:
+    names: ["紫薇", "Crape myrtle"]
+    latin: "Lagerstroemia indica"
+    traits: "落叶花木；萌芽强，光滑树皮与花序有特色。"
+    placement: "旺长季充分日照与通风。"
+    water: "旺长开花期稳定供水，排水良好。"
+    pruning: "回剪促分枝但避免年年同点截成瘤。"
+    repot: "萌动前按根满盆程度处理。"
+    warning: "反复截顶会破坏自然收尖。"
+    source_ids: ["RHS-BONSAI"]
+  ginkgo:
+    names: ["银杏", "Ginkgo"]
+    latin: "Ginkgo biloba"
+    traits: "落叶裸子植物；分枝模式独特，剪口回枯需谨慎。"
+    placement: "室外日照与季节休眠。"
+    water: "生长期均匀供水，排水良好。"
+    pruning: "尊重直立或火焰状习性；大枝取舍留安全桩观察回枯。"
+    repot: "萌动前，频率按根况。"
+    warning: "不强套松柏云片或频繁大弯。"
+    source_ids: ["RHS-BONSAI"]
+  gardenia:
+    names: ["栀子", "水横枝", "Gardenia"]
+    latin: "Gardenia jasminoides"
+    traits: "喜酸常绿花木；花香与叶色并重。"
+    placement: "明亮温暖、通风，酷暑防灼，寒地防冻。"
+    water: "适度湿润且排水；关注水质和 pH。"
+    pruning: "花后回剪；弱树不重剪。"
+    repot: "温暖生长启动期，使用酸性、透气介质。"
+    warning: "黄叶成因多，未查水质、pH 与根况前不直接判缺肥。"
+    source_ids: ["CN-LINGNAN-HUNAN-2010", "RHS-BONSAI"]
+  persimmon:
+    names: ["金弹子", "乌柿", "Persimmon bonsai"]
+    latin: "Diospyros cathayensis and related Diospyros spp."
+    traits: "雌雄与品种影响结果；果、根盘和苍干常为看点。"
+    placement: "室外充足光照，依来源做冬季保护。"
+    water: "生长果期稳定，避免积水与骤干。"
+    pruning: "确认花果芽与性别后回剪；结果过多需疏果。"
+    repot: "休眠末期或当地成熟做法的安全窗口。"
+    warning: "无果照片不能判断雌雄；挂果量不等于艺术质量。"
+    source_ids: ["RHS-BONSAI"]

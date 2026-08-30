@@ -1,0 +1,1689 @@
+{
+  "version": "1.0",
+  "count": 120,
+  "license": "Original critique templates created for this skill; not historical quotations.",
+  "usage": "Match school, polarity, score band, tags and visible evidence.",
+  "lines": [
+    {
+      "id": "Q001",
+      "school": "universal",
+      "polarity": "praise",
+      "score_band": [
+        70,
+        100
+      ],
+      "tags": [
+        "movement",
+        "coherence"
+      ],
+      "text": "势从根起，意向梢行，一树的呼吸没有在半途断掉。"
+    },
+    {
+      "id": "Q002",
+      "school": "universal",
+      "polarity": "praise",
+      "score_band": [
+        70,
+        100
+      ],
+      "tags": [
+        "composition",
+        "refinement"
+      ],
+      "text": "轮廓先声夺人，细看又有回味，远近两重观看都站得住。"
+    },
+    {
+      "id": "Q003",
+      "school": "universal",
+      "polarity": "praise",
+      "score_band": [
+        70,
+        100
+      ],
+      "tags": [
+        "balance",
+        "movement"
+      ],
+      "text": "重心藏在险处，视觉却稳稳落盆，动与定拿捏得很准。"
+    },
+    {
+      "id": "Q004",
+      "school": "universal",
+      "polarity": "praise",
+      "score_band": [
+        70,
+        100
+      ],
+      "tags": [
+        "negative_space",
+        "composition"
+      ],
+      "text": "空白不是剩下来的地方，而是这盆景主动留下的一段风景。"
+    },
+    {
+      "id": "Q005",
+      "school": "universal",
+      "polarity": "praise",
+      "score_band": [
+        70,
+        100
+      ],
+      "tags": [
+        "coherence",
+        "structure"
+      ],
+      "text": "根、干、枝、冠说的是同一个故事，作品因此有了完整人格。"
+    },
+    {
+      "id": "Q006",
+      "school": "universal",
+      "polarity": "praise",
+      "score_band": [
+        70,
+        100
+      ],
+      "tags": [
+        "ramification",
+        "negative_space"
+      ],
+      "text": "枝叶虽繁而主线不失，密处有层，疏处有气。"
+    },
+    {
+      "id": "Q007",
+      "school": "universal",
+      "polarity": "praise",
+      "score_band": [
+        70,
+        100
+      ],
+      "tags": [
+        "scale",
+        "maturity"
+      ],
+      "text": "尺度被收进方寸，气象却没有随盆沿缩小。"
+    },
+    {
+      "id": "Q008",
+      "school": "universal",
+      "polarity": "praise",
+      "score_band": [
+        70,
+        100
+      ],
+      "tags": [
+        "pot",
+        "harmony"
+      ],
+      "text": "器不争树，树不欺器，盆与景像一句话里的轻重音。"
+    },
+    {
+      "id": "Q009",
+      "school": "universal",
+      "polarity": "praise",
+      "score_band": [
+        70,
+        100
+      ],
+      "tags": [
+        "maturity",
+        "naturalness"
+      ],
+      "text": "老态来自结构与岁月感，而不是靠伤痕堆砌。"
+    },
+    {
+      "id": "Q010",
+      "school": "universal",
+      "polarity": "praise",
+      "score_band": [
+        70,
+        100
+      ],
+      "tags": [
+        "branch_order",
+        "restraint"
+      ],
+      "text": "每一根留下的枝都有职责，每一处舍去都让主题更清楚。"
+    },
+    {
+      "id": "Q011",
+      "school": "universal",
+      "polarity": "praise",
+      "score_band": [
+        70,
+        100
+      ],
+      "tags": [
+        "craft",
+        "species_fit"
+      ],
+      "text": "工夫藏在细节里，却没有让手艺盖过树性。"
+    },
+    {
+      "id": "Q012",
+      "school": "universal",
+      "polarity": "praise",
+      "score_band": [
+        70,
+        100
+      ],
+      "tags": [
+        "health",
+        "sustainability"
+      ],
+      "text": "树势旺而不躁，造型紧而不僵，活与美在同一条线上。"
+    },
+    {
+      "id": "Q013",
+      "school": "universal",
+      "polarity": "improve",
+      "score_band": [
+        0,
+        89
+      ],
+      "tags": [
+        "branch_order",
+        "negative_space"
+      ],
+      "text": "眼下不缺枝，缺的是取舍；先让主线露出来，作品才会开口。"
+    },
+    {
+      "id": "Q014",
+      "school": "universal",
+      "polarity": "improve",
+      "score_band": [
+        0,
+        89
+      ],
+      "tags": [
+        "apex",
+        "density"
+      ],
+      "text": "顶冠的重量压住了干势，减一分密，反而能添三分高。"
+    },
+    {
+      "id": "Q015",
+      "school": "universal",
+      "polarity": "improve",
+      "score_band": [
+        0,
+        89
+      ],
+      "tags": [
+        "nebari",
+        "balance"
+      ],
+      "text": "根盘尚未把气势接住，先稳入土，再谈枝头的惊险。"
+    },
+    {
+      "id": "Q016",
+      "school": "universal",
+      "polarity": "improve",
+      "score_band": [
+        0,
+        89
+      ],
+      "tags": [
+        "branch_taper",
+        "maturity"
+      ],
+      "text": "主干有故事，枝条却还像旁白；让枝级与干龄重新对齐。"
+    },
+    {
+      "id": "Q017",
+      "school": "universal",
+      "polarity": "improve",
+      "score_band": [
+        0,
+        89
+      ],
+      "tags": [
+        "trunk_movement",
+        "naturalness"
+      ],
+      "text": "连续同幅度的弯会把自然写成图案，下一步要打破重复节拍。"
+    },
+    {
+      "id": "Q018",
+      "school": "universal",
+      "polarity": "improve",
+      "score_band": [
+        0,
+        89
+      ],
+      "tags": [
+        "ramification",
+        "negative_space"
+      ],
+      "text": "细枝已经够多，却尚未分层；先开窗，再追求丰满。"
+    },
+    {
+      "id": "Q019",
+      "school": "universal",
+      "polarity": "improve",
+      "score_band": [
+        0,
+        89
+      ],
+      "tags": [
+        "pot",
+        "harmony"
+      ],
+      "text": "盆的颜色正在替树发言，换成更克制的器，主题会更响。"
+    },
+    {
+      "id": "Q020",
+      "school": "universal",
+      "polarity": "improve",
+      "score_band": [
+        0,
+        89
+      ],
+      "tags": [
+        "wounds",
+        "taper"
+      ],
+      "text": "剪口不是不能见，而是要让后续生长把它变成结构的一部分。"
+    },
+    {
+      "id": "Q021",
+      "school": "universal",
+      "polarity": "improve",
+      "score_band": [
+        0,
+        89
+      ],
+      "tags": [
+        "density",
+        "airflow"
+      ],
+      "text": "叶团像一堵墙，风与目光都穿不过去；疏枝应先于短剪。"
+    },
+    {
+      "id": "Q022",
+      "school": "universal",
+      "polarity": "improve",
+      "score_band": [
+        0,
+        89
+      ],
+      "tags": [
+        "health",
+        "sustainability"
+      ],
+      "text": "此刻最好的造型动作是停手，让树势先把未来的选择长出来。"
+    },
+    {
+      "id": "Q023",
+      "school": "universal",
+      "polarity": "improve",
+      "score_band": [
+        0,
+        89
+      ],
+      "tags": [
+        "confidence",
+        "evidence"
+      ],
+      "text": "摄影遮住了根盘与后枝，分数可以暂定，判断不能冒进。"
+    },
+    {
+      "id": "Q024",
+      "school": "universal",
+      "polarity": "improve",
+      "score_band": [
+        0,
+        89
+      ],
+      "tags": [
+        "structure",
+        "development"
+      ],
+      "text": "别急着追求成品相；先把骨架做对，时间会替你完成细节。"
+    },
+    {
+      "id": "Q025",
+      "school": "lingnan",
+      "polarity": "praise",
+      "score_band": [
+        70,
+        100
+      ],
+      "tags": [
+        "chop_grow",
+        "taper"
+      ],
+      "text": "截处能接，接处能转，蓄枝截干的痕迹已经化成生长的逻辑。"
+    },
+    {
+      "id": "Q026",
+      "school": "lingnan",
+      "polarity": "praise",
+      "score_band": [
+        70,
+        100
+      ],
+      "tags": [
+        "branch_lineage",
+        "ramification"
+      ],
+      "text": "枝托一代代递细，像岭南画笔由浓墨走到飞白。"
+    },
+    {
+      "id": "Q027",
+      "school": "lingnan",
+      "polarity": "praise",
+      "score_band": [
+        70,
+        100
+      ],
+      "tags": [
+        "natural_tree",
+        "scale"
+      ],
+      "text": "树不高而有旷野巨木之势，矮仔大树的气象已经立住。"
+    },
+    {
+      "id": "Q028",
+      "school": "lingnan",
+      "polarity": "praise",
+      "score_band": [
+        70,
+        100
+      ],
+      "tags": [
+        "drop_branch",
+        "negative_space"
+      ],
+      "text": "一枝跌宕补一处空白，险处不是炫技，而是在完成章法。"
+    },
+    {
+      "id": "Q029",
+      "school": "lingnan",
+      "polarity": "praise",
+      "score_band": [
+        70,
+        100
+      ],
+      "tags": [
+        "density",
+        "vigor"
+      ],
+      "text": "疏处见风，密处见荫，岭南的生猛没有压过画意。"
+    },
+    {
+      "id": "Q030",
+      "school": "lingnan",
+      "polarity": "praise",
+      "score_band": [
+        70,
+        100
+      ],
+      "tags": [
+        "maturity",
+        "health"
+      ],
+      "text": "干苍、枝活、叶润，三种年龄感在一盆里彼此成全。"
+    },
+    {
+      "id": "Q031",
+      "school": "lingnan",
+      "polarity": "improve",
+      "score_band": [
+        0,
+        89
+      ],
+      "tags": [
+        "chop_grow",
+        "taper"
+      ],
+      "text": "截口仍像标点而非句法，下一轮蓄养要把收尖接得更顺。"
+    },
+    {
+      "id": "Q032",
+      "school": "lingnan",
+      "polarity": "improve",
+      "score_band": [
+        0,
+        89
+      ],
+      "tags": [
+        "branch_lineage",
+        "structure"
+      ],
+      "text": "枝托有形却无代际，先养一级枝粗度，再谈末梢成片。"
+    },
+    {
+      "id": "Q033",
+      "school": "lingnan",
+      "polarity": "improve",
+      "score_band": [
+        0,
+        89
+      ],
+      "tags": [
+        "drift_branch",
+        "balance"
+      ],
+      "text": "大飘枝若只求长，会把重心拖出盆外；要让它回望主干。"
+    },
+    {
+      "id": "Q034",
+      "school": "lingnan",
+      "polarity": "improve",
+      "score_band": [
+        0,
+        89
+      ],
+      "tags": [
+        "school_fit",
+        "density"
+      ],
+      "text": "枝团被剪成同样的云片，岭南味反而被扬派语汇盖住了。"
+    },
+    {
+      "id": "Q035",
+      "school": "lingnan",
+      "polarity": "improve",
+      "score_band": [
+        0,
+        89
+      ],
+      "tags": [
+        "sparse",
+        "branch_order"
+      ],
+      "text": "素仁格贵在清疏，不在单薄；关键节点仍需一两处有力承接。"
+    },
+    {
+      "id": "Q036",
+      "school": "lingnan",
+      "polarity": "improve",
+      "score_band": [
+        0,
+        89
+      ],
+      "tags": [
+        "health",
+        "chop_grow"
+      ],
+      "text": "树势未复便反复截干，只会留下伤而长不出骨。"
+    },
+    {
+      "id": "Q037",
+      "school": "yangzhou",
+      "polarity": "praise",
+      "score_band": [
+        70,
+        100
+      ],
+      "tags": [
+        "cloud_pads",
+        "negative_space"
+      ],
+      "text": "云片平而不板，薄处见功，片间还留着山林的风。"
+    },
+    {
+      "id": "Q038",
+      "school": "yangzhou",
+      "polarity": "praise",
+      "score_band": [
+        70,
+        100
+      ],
+      "tags": [
+        "inch_three_bends",
+        "craft"
+      ],
+      "text": "一寸三弯不是炫技的密纹，而被你用成了枝梢的节奏。"
+    },
+    {
+      "id": "Q039",
+      "school": "yangzhou",
+      "polarity": "praise",
+      "score_band": [
+        70,
+        100
+      ],
+      "tags": [
+        "dragon_trunk",
+        "cloud_pads"
+      ],
+      "text": "游龙干势舒卷自如，云片落在转折处，像云随山起。"
+    },
+    {
+      "id": "Q040",
+      "school": "yangzhou",
+      "polarity": "praise",
+      "score_band": [
+        70,
+        100
+      ],
+      "tags": [
+        "pad_spacing",
+        "naturalness"
+      ],
+      "text": "层层云片各有大小，严整中仍保留了自然的错落。"
+    },
+    {
+      "id": "Q041",
+      "school": "yangzhou",
+      "polarity": "praise",
+      "score_band": [
+        70,
+        100
+      ],
+      "tags": [
+        "maturity",
+        "school_fit"
+      ],
+      "text": "桩古而片清，苍与秀相对照，扬派的精神由此显出来。"
+    },
+    {
+      "id": "Q042",
+      "school": "yangzhou",
+      "polarity": "praise",
+      "score_band": [
+        70,
+        100
+      ],
+      "tags": [
+        "formal_natural",
+        "coherence"
+      ],
+      "text": "工稳不失灵动，装饰性被山林气压住，没有流于图案。"
+    },
+    {
+      "id": "Q043",
+      "school": "yangzhou",
+      "polarity": "improve",
+      "score_band": [
+        0,
+        89
+      ],
+      "tags": [
+        "cloud_pads",
+        "depth"
+      ],
+      "text": "云片虽齐，却齐得像架子；拉开大小与前后，层次才会活。"
+    },
+    {
+      "id": "Q044",
+      "school": "yangzhou",
+      "polarity": "improve",
+      "score_band": [
+        0,
+        89
+      ],
+      "tags": [
+        "inch_three_bends",
+        "rhythm"
+      ],
+      "text": "枝弯过密而无停顿，一寸三弯便从节奏变成噪声。"
+    },
+    {
+      "id": "Q045",
+      "school": "yangzhou",
+      "polarity": "improve",
+      "score_band": [
+        0,
+        89
+      ],
+      "tags": [
+        "pad_spacing",
+        "negative_space"
+      ],
+      "text": "片与片近乎平行重叠，先还留白，再谈平整。"
+    },
+    {
+      "id": "Q046",
+      "school": "yangzhou",
+      "polarity": "improve",
+      "score_band": [
+        0,
+        89
+      ],
+      "tags": [
+        "dragon_trunk",
+        "naturalness"
+      ],
+      "text": "游龙弯每折同幅，蛇形太露；需在一处放、一处收。"
+    },
+    {
+      "id": "Q047",
+      "school": "yangzhou",
+      "polarity": "improve",
+      "score_band": [
+        0,
+        89
+      ],
+      "tags": [
+        "apex",
+        "hierarchy"
+      ],
+      "text": "顶片与下层同重，树没有收束；结顶应轻而能领全局。"
+    },
+    {
+      "id": "Q048",
+      "school": "yangzhou",
+      "polarity": "improve",
+      "score_band": [
+        0,
+        89
+      ],
+      "tags": [
+        "craft",
+        "ramification"
+      ],
+      "text": "扎功已经足，剪功尚未跟上；末级枝要从平面走向层次。"
+    },
+    {
+      "id": "Q049",
+      "school": "suzhou",
+      "polarity": "praise",
+      "score_band": [
+        70,
+        100
+      ],
+      "tags": [
+        "old_vigorous",
+        "health"
+      ],
+      "text": "古桩老而弥健，枝梢却清新，苏派的古雅不带暮气。"
+    },
+    {
+      "id": "Q050",
+      "school": "suzhou",
+      "polarity": "praise",
+      "score_band": [
+        70,
+        100
+      ],
+      "tags": [
+        "coarse_wire_fine_prune",
+        "craft"
+      ],
+      "text": "粗扎立骨，细剪生韵，工法在成景之后悄悄退场。"
+    },
+    {
+      "id": "Q051",
+      "school": "suzhou",
+      "polarity": "praise",
+      "score_band": [
+        70,
+        100
+      ],
+      "tags": [
+        "natural_apex",
+        "apex"
+      ],
+      "text": "结顶顺着干势自然收住，不戴帽，也不泄气。"
+    },
+    {
+      "id": "Q052",
+      "school": "suzhou",
+      "polarity": "praise",
+      "score_band": [
+        70,
+        100
+      ],
+      "tags": [
+        "painting_composition",
+        "rhythm"
+      ],
+      "text": "几处开合像吴门画里的笔墨停连，轻而有骨。"
+    },
+    {
+      "id": "Q053",
+      "school": "suzhou",
+      "polarity": "praise",
+      "score_band": [
+        70,
+        100
+      ],
+      "tags": [
+        "elegant_restraint",
+        "branch_order"
+      ],
+      "text": "潇洒来自少而准确，不是枝条稀薄。"
+    },
+    {
+      "id": "Q054",
+      "school": "suzhou",
+      "polarity": "praise",
+      "score_band": [
+        70,
+        100
+      ],
+      "tags": [
+        "school_fit",
+        "strength"
+      ],
+      "text": "盆中有江南的温润，却没有把清秀做成柔弱。"
+    },
+    {
+      "id": "Q055",
+      "school": "suzhou",
+      "polarity": "improve",
+      "score_band": [
+        0,
+        89
+      ],
+      "tags": [
+        "natural_apex",
+        "coherence"
+      ],
+      "text": "顶冠像后加的一团，尚未接住主干最后一次转折。"
+    },
+    {
+      "id": "Q056",
+      "school": "suzhou",
+      "polarity": "improve",
+      "score_band": [
+        0,
+        89
+      ],
+      "tags": [
+        "maturity",
+        "branch_taper"
+      ],
+      "text": "老干与嫩枝各说各话，需用数季把枝径和年龄感养齐。"
+    },
+    {
+      "id": "Q057",
+      "school": "suzhou",
+      "polarity": "improve",
+      "score_band": [
+        0,
+        89
+      ],
+      "tags": [
+        "craft",
+        "wire"
+      ],
+      "text": "粗扎痕迹仍在抢眼，拆线与细剪应让骨架回归自然。"
+    },
+    {
+      "id": "Q058",
+      "school": "suzhou",
+      "polarity": "improve",
+      "score_band": [
+        0,
+        89
+      ],
+      "tags": [
+        "painting_composition",
+        "negative_space"
+      ],
+      "text": "枝片太平均，吴门画意里的虚实和停顿还没出现。"
+    },
+    {
+      "id": "Q059",
+      "school": "suzhou",
+      "polarity": "improve",
+      "score_band": [
+        0,
+        89
+      ],
+      "tags": [
+        "health",
+        "restraint"
+      ],
+      "text": "为了秀而削得过薄，树势与视觉支撑都不足。"
+    },
+    {
+      "id": "Q060",
+      "school": "suzhou",
+      "polarity": "improve",
+      "score_band": [
+        0,
+        89
+      ],
+      "tags": [
+        "apex",
+        "density"
+      ],
+      "text": "结顶过圆过满，轻轻开一扇窗，隽秀才会透出来。"
+    },
+    {
+      "id": "Q061",
+      "school": "sichuan",
+      "polarity": "praise",
+      "score_band": [
+        70,
+        100
+      ],
+      "tags": [
+        "body_method",
+        "rhythm"
+      ],
+      "text": "弯中有拐，拐中有顿，身法不是路线，而是一股劲。"
+    },
+    {
+      "id": "Q062",
+      "school": "sichuan",
+      "polarity": "praise",
+      "score_band": [
+        70,
+        100
+      ],
+      "tags": [
+        "root_claw",
+        "balance"
+      ],
+      "text": "露根如爪而不悬，险势终究落回大地。"
+    },
+    {
+      "id": "Q063",
+      "school": "sichuan",
+      "polarity": "praise",
+      "score_band": [
+        70,
+        100
+      ],
+      "tags": [
+        "majestic_oddity",
+        "naturalness"
+      ],
+      "text": "古雅中带奇，奇处仍能解释为风雨与山势。"
+    },
+    {
+      "id": "Q064",
+      "school": "sichuan",
+      "polarity": "praise",
+      "score_band": [
+        70,
+        100
+      ],
+      "tags": [
+        "turning_rhythm",
+        "coherence"
+      ],
+      "text": "干势几番回转，最后仍抬头照足，川派身法收得完整。"
+    },
+    {
+      "id": "Q065",
+      "school": "sichuan",
+      "polarity": "praise",
+      "score_band": [
+        70,
+        100
+      ],
+      "tags": [
+        "craft_control",
+        "health"
+      ],
+      "text": "蟠扎控制得住力道，硬拐里没有折伤的急躁。"
+    },
+    {
+      "id": "Q066",
+      "school": "sichuan",
+      "polarity": "praise",
+      "score_band": [
+        70,
+        100
+      ],
+      "tags": [
+        "school_fit",
+        "artistic_conception"
+      ],
+      "text": "一盆之内见山险水幽，程式被用成了气象。"
+    },
+    {
+      "id": "Q067",
+      "school": "sichuan",
+      "polarity": "improve",
+      "score_band": [
+        0,
+        89
+      ],
+      "tags": [
+        "body_method",
+        "rhythm"
+      ],
+      "text": "弯拐连续却没有顿节，身法像弹簧，少了起承转合。"
+    },
+    {
+      "id": "Q068",
+      "school": "sichuan",
+      "polarity": "improve",
+      "score_band": [
+        0,
+        89
+      ],
+      "tags": [
+        "root_claw",
+        "nebari"
+      ],
+      "text": "悬根露得多、抓地做得少，视觉险势尚无落脚。"
+    },
+    {
+      "id": "Q069",
+      "school": "sichuan",
+      "polarity": "improve",
+      "score_band": [
+        0,
+        89
+      ],
+      "tags": [
+        "majestic_oddity",
+        "species_fit"
+      ],
+      "text": "奇形已经夺目，但树性退到后面；下一步要把奇还给自然。"
+    },
+    {
+      "id": "Q070",
+      "school": "sichuan",
+      "polarity": "improve",
+      "score_band": [
+        0,
+        89
+      ],
+      "tags": [
+        "school_fit",
+        "composition"
+      ],
+      "text": "传统身法很清楚，整体主题却模糊，标签不能代替章法。"
+    },
+    {
+      "id": "Q071",
+      "school": "sichuan",
+      "polarity": "improve",
+      "score_band": [
+        0,
+        89
+      ],
+      "tags": [
+        "craft_control",
+        "sustainability"
+      ],
+      "text": "老枝一次弯得太狠，工法赢了形，树势可能输了未来。"
+    },
+    {
+      "id": "Q072",
+      "school": "sichuan",
+      "polarity": "improve",
+      "score_band": [
+        0,
+        89
+      ],
+      "tags": [
+        "coherence",
+        "apex"
+      ],
+      "text": "顶势没有回应基部第一拐，首尾尚未照应。"
+    },
+    {
+      "id": "Q073",
+      "school": "shanghai",
+      "polarity": "praise",
+      "score_band": [
+        70,
+        100
+      ],
+      "tags": [
+        "eclectic_coherence",
+        "theme"
+      ],
+      "text": "多家技法汇到一树，最后只剩一个清楚的主题。"
+    },
+    {
+      "id": "Q074",
+      "school": "shanghai",
+      "polarity": "praise",
+      "score_band": [
+        70,
+        100
+      ],
+      "tags": [
+        "wire_prune_balance",
+        "craft"
+      ],
+      "text": "金属丝塑骨、剪法收梢，扎剪之间没有互相打架。"
+    },
+    {
+      "id": "Q075",
+      "school": "shanghai",
+      "polarity": "praise",
+      "score_band": [
+        70,
+        100
+      ],
+      "tags": [
+        "theme_layers_change",
+        "depth"
+      ],
+      "text": "枝片大小不一、聚散自由，层次多而不乱。"
+    },
+    {
+      "id": "Q076",
+      "school": "shanghai",
+      "polarity": "praise",
+      "score_band": [
+        70,
+        100
+      ],
+      "tags": [
+        "species_individuality",
+        "naturalness"
+      ],
+      "text": "树种本身的性情仍在，海派的包容没有变成套式。"
+    },
+    {
+      "id": "Q077",
+      "school": "shanghai",
+      "polarity": "praise",
+      "score_band": [
+        70,
+        100
+      ],
+      "tags": [
+        "urban_refinement",
+        "scale"
+      ],
+      "text": "小中见精，明快处有都市气，细处又经得起近看。"
+    },
+    {
+      "id": "Q078",
+      "school": "shanghai",
+      "polarity": "praise",
+      "score_band": [
+        70,
+        100
+      ],
+      "tags": [
+        "school_fit",
+        "coherence"
+      ],
+      "text": "有法而无定式，变化很多，主线始终没有丢。"
+    },
+    {
+      "id": "Q079",
+      "school": "shanghai",
+      "polarity": "improve",
+      "score_band": [
+        0,
+        89
+      ],
+      "tags": [
+        "eclectic_coherence",
+        "composition"
+      ],
+      "text": "技法来源很多，主题却被拆成几段；先选一句主旨再删枝。"
+    },
+    {
+      "id": "Q080",
+      "school": "shanghai",
+      "polarity": "improve",
+      "score_band": [
+        0,
+        89
+      ],
+      "tags": [
+        "wire_prune_balance",
+        "wounds"
+      ],
+      "text": "铁丝完成了位置，却留下勒痕在讲述过程。"
+    },
+    {
+      "id": "Q081",
+      "school": "shanghai",
+      "polarity": "improve",
+      "score_band": [
+        0,
+        89
+      ],
+      "tags": [
+        "theme_layers_change",
+        "depth"
+      ],
+      "text": "枝片数量增加了，大小与疏密却未变化，层次仍是平的。"
+    },
+    {
+      "id": "Q082",
+      "school": "shanghai",
+      "polarity": "improve",
+      "score_band": [
+        0,
+        89
+      ],
+      "tags": [
+        "species_individuality",
+        "species_fit"
+      ],
+      "text": "把杂木剪成松柏轮廓，树种个性因此被消音。"
+    },
+    {
+      "id": "Q083",
+      "school": "shanghai",
+      "polarity": "improve",
+      "score_band": [
+        0,
+        89
+      ],
+      "tags": [
+        "urban_refinement",
+        "negative_space"
+      ],
+      "text": "小而精不等于小而满，近景还需要几处呼吸。"
+    },
+    {
+      "id": "Q084",
+      "school": "shanghai",
+      "polarity": "improve",
+      "score_band": [
+        0,
+        89
+      ],
+      "tags": [
+        "school_fit",
+        "restraint"
+      ],
+      "text": "混合风格的自由需要更强约束，否则容易从融汇滑向拼贴。"
+    },
+    {
+      "id": "Q085",
+      "school": "anhui",
+      "polarity": "praise",
+      "score_band": [
+        70,
+        100
+      ],
+      "tags": [
+        "trunk_clumsy_branch_clever",
+        "contrast"
+      ],
+      "text": "主干拙朴如石，枝梢灵秀如笔，干拙枝巧的对照很有力量。"
+    },
+    {
+      "id": "Q086",
+      "school": "anhui",
+      "polarity": "praise",
+      "score_band": [
+        70,
+        100
+      ],
+      "tags": [
+        "ancient_odd_natural",
+        "naturalness"
+      ],
+      "text": "苍古、奇特、自然三者同在，奇没有越过可信的边界。"
+    },
+    {
+      "id": "Q087",
+      "school": "anhui",
+      "polarity": "praise",
+      "score_band": [
+        70,
+        100
+      ],
+      "tags": [
+        "hide_reveal",
+        "composition"
+      ],
+      "text": "主线时藏时露，关键转折却都让观者看见。"
+    },
+    {
+      "id": "Q088",
+      "school": "anhui",
+      "polarity": "praise",
+      "score_band": [
+        70,
+        100
+      ],
+      "tags": [
+        "solemn_strength",
+        "balance"
+      ],
+      "text": "重心端凝，骨力外张，徽派的庄重不显板滞。"
+    },
+    {
+      "id": "Q089",
+      "school": "anhui",
+      "polarity": "praise",
+      "score_band": [
+        70,
+        100
+      ],
+      "tags": [
+        "hui_form_identity",
+        "strength"
+      ],
+      "text": "梅桩的曲不是软，枝间仍有铁骨。"
+    },
+    {
+      "id": "Q090",
+      "school": "anhui",
+      "polarity": "praise",
+      "score_band": [
+        70,
+        100
+      ],
+      "tags": [
+        "coherence",
+        "school_fit"
+      ],
+      "text": "上中下、左中右都有照应，整体像一方完整的徽州印记。"
+    },
+    {
+      "id": "Q091",
+      "school": "anhui",
+      "polarity": "improve",
+      "score_band": [
+        0,
+        89
+      ],
+      "tags": [
+        "ancient_odd_natural",
+        "hierarchy"
+      ],
+      "text": "主干已经够奇，枝梢再争奇便失去主次。"
+    },
+    {
+      "id": "Q092",
+      "school": "anhui",
+      "polarity": "improve",
+      "score_band": [
+        0,
+        89
+      ],
+      "tags": [
+        "trunk_clumsy_branch_clever",
+        "contrast"
+      ],
+      "text": "干拙而枝也拙，缺少一层灵秀来相互映照。"
+    },
+    {
+      "id": "Q093",
+      "school": "anhui",
+      "polarity": "improve",
+      "score_band": [
+        0,
+        89
+      ],
+      "tags": [
+        "hide_reveal",
+        "density"
+      ],
+      "text": "藏得太多，主干关键转折被叶团堵住了。"
+    },
+    {
+      "id": "Q094",
+      "school": "anhui",
+      "polarity": "improve",
+      "score_band": [
+        0,
+        89
+      ],
+      "tags": [
+        "solemn_strength",
+        "movement"
+      ],
+      "text": "对称带来庄重，也带来停滞；需要一处轻微破格。"
+    },
+    {
+      "id": "Q095",
+      "school": "anhui",
+      "polarity": "improve",
+      "score_band": [
+        0,
+        89
+      ],
+      "tags": [
+        "hui_form_identity",
+        "rhythm"
+      ],
+      "text": "游龙式若每弯同幅，便从古雅走向机械。"
+    },
+    {
+      "id": "Q096",
+      "school": "anhui",
+      "polarity": "improve",
+      "score_band": [
+        0,
+        89
+      ],
+      "tags": [
+        "maturity",
+        "branch_taper"
+      ],
+      "text": "枝龄追不上老桩，先养比例，不急着做满。"
+    },
+    {
+      "id": "Q097",
+      "school": "nantong",
+      "polarity": "praise",
+      "score_band": [
+        70,
+        100
+      ],
+      "tags": [
+        "two_half_bends",
+        "coherence"
+      ],
+      "text": "座地弯稳、起手弯活、半弯收势，两弯半的身段一气完成。"
+    },
+    {
+      "id": "Q098",
+      "school": "nantong",
+      "polarity": "praise",
+      "score_band": [
+        70,
+        100
+      ],
+      "tags": [
+        "lion_posture",
+        "artistic_conception"
+      ],
+      "text": "狮式有回首顾盼之神，却没有落入动物造型的直白。"
+    },
+    {
+      "id": "Q099",
+      "school": "nantong",
+      "polarity": "praise",
+      "score_band": [
+        70,
+        100
+      ],
+      "tags": [
+        "four_side_view",
+        "depth"
+      ],
+      "text": "正面严谨，侧后仍有枝有空，四面观不是一句口号。"
+    },
+    {
+      "id": "Q100",
+      "school": "nantong",
+      "polarity": "praise",
+      "score_band": [
+        70,
+        100
+      ],
+      "tags": [
+        "pad_top_order",
+        "rhythm"
+      ],
+      "text": "上捧下蹲，片与顶相互照足，秩序里有动态。"
+    },
+    {
+      "id": "Q101",
+      "school": "nantong",
+      "polarity": "praise",
+      "score_band": [
+        70,
+        100
+      ],
+      "tags": [
+        "precision_natural",
+        "craft"
+      ],
+      "text": "工艺细密而树气不失，精工最终回到了自然。"
+    },
+    {
+      "id": "Q102",
+      "school": "nantong",
+      "polarity": "praise",
+      "score_band": [
+        70,
+        100
+      ],
+      "tags": [
+        "school_fit",
+        "scale"
+      ],
+      "text": "庄严雄伟落在小盆中，通派的体势没有被尺寸削弱。"
+    },
+    {
+      "id": "Q103",
+      "school": "nantong",
+      "polarity": "improve",
+      "score_band": [
+        0,
+        89
+      ],
+      "tags": [
+        "two_half_bends",
+        "rhythm"
+      ],
+      "text": "S 弯轮廓已像两弯半，顿节与回项却尚未形成神态。"
+    },
+    {
+      "id": "Q104",
+      "school": "nantong",
+      "polarity": "improve",
+      "score_band": [
+        0,
+        89
+      ],
+      "tags": [
+        "lion_posture",
+        "naturalness"
+      ],
+      "text": "狮式太依赖象形，树本身的自然因果被削弱。"
+    },
+    {
+      "id": "Q105",
+      "school": "nantong",
+      "polarity": "improve",
+      "score_band": [
+        0,
+        89
+      ],
+      "tags": [
+        "four_side_view",
+        "depth"
+      ],
+      "text": "正面枝片齐备，背面层次空缺，四面观还差一面。"
+    },
+    {
+      "id": "Q106",
+      "school": "nantong",
+      "polarity": "improve",
+      "score_band": [
+        0,
+        89
+      ],
+      "tags": [
+        "pad_top_order",
+        "apex"
+      ],
+      "text": "圆顶过大压住第二弯，收顶应服从身法。"
+    },
+    {
+      "id": "Q107",
+      "school": "nantong",
+      "polarity": "improve",
+      "score_band": [
+        0,
+        89
+      ],
+      "tags": [
+        "precision_natural",
+        "craft"
+      ],
+      "text": "棕丝或金属丝痕迹过重，工艺尚未退到作品背后。"
+    },
+    {
+      "id": "Q108",
+      "school": "nantong",
+      "polarity": "improve",
+      "score_band": [
+        0,
+        89
+      ],
+      "tags": [
+        "school_fit",
+        "maturity"
+      ],
+      "text": "两弯半做到了形，尚需时间养出古与厚。"
+    },
+    {
+      "id": "Q109",
+      "school": "zhejiang",
+      "polarity": "praise",
+      "score_band": [
+        70,
+        100
+      ],
+      "tags": [
+        "strength_spirit_bone",
+        "strength"
+      ],
+      "text": "干枝舒展有力，层次清楚，刚健与气韵同时成立。"
+    },
+    {
+      "id": "Q110",
+      "school": "zhejiang",
+      "polarity": "praise",
+      "score_band": [
+        70,
+        100
+      ],
+      "tags": [
+        "high_trunk_group",
+        "forest"
+      ],
+      "text": "高干之间高低、粗细、疏密各异，合栽有林相而无队列感。"
+    },
+    {
+      "id": "Q111",
+      "school": "zhejiang",
+      "polarity": "praise",
+      "score_band": [
+        70,
+        100
+      ],
+      "tags": [
+        "twist_prune_fit",
+        "craft"
+      ],
+      "text": "松柏以扭扎起势、修剪收神，风骨没有被枝团切碎。"
+    },
+    {
+      "id": "Q112",
+      "school": "zhejiang",
+      "polarity": "praise",
+      "score_band": [
+        70,
+        100
+      ],
+      "tags": [
+        "deciduous_sparse_elegant",
+        "ramification"
+      ],
+      "text": "杂木疏朗清丽，分枝转折像有韵脚。"
+    },
+    {
+      "id": "Q113",
+      "school": "zhejiang",
+      "polarity": "praise",
+      "score_band": [
+        70,
+        100
+      ],
+      "tags": [
+        "bold_control",
+        "balance"
+      ],
+      "text": "豪放处敢放，关键节点又收得住，气势没有散。"
+    },
+    {
+      "id": "Q114",
+      "school": "zhejiang",
+      "polarity": "praise",
+      "score_band": [
+        70,
+        100
+      ],
+      "tags": [
+        "school_fit",
+        "coherence"
+      ],
+      "text": "一树风骨向外舒展，盆内仍守住浙派的严谨。"
+    },
+    {
+      "id": "Q115",
+      "school": "zhejiang",
+      "polarity": "improve",
+      "score_band": [
+        0,
+        89
+      ],
+      "tags": [
+        "strength_spirit_bone",
+        "density"
+      ],
+      "text": "枝团过碎，松柏的风骨被修成了零散云朵。"
+    },
+    {
+      "id": "Q116",
+      "school": "zhejiang",
+      "polarity": "improve",
+      "score_band": [
+        0,
+        89
+      ],
+      "tags": [
+        "high_trunk_group",
+        "composition"
+      ],
+      "text": "高干合栽等高等距，林相像队列，需要主树与空场。"
+    },
+    {
+      "id": "Q117",
+      "school": "zhejiang",
+      "polarity": "improve",
+      "score_band": [
+        0,
+        89
+      ],
+      "tags": [
+        "twist_prune_fit",
+        "coherence"
+      ],
+      "text": "扭扎曲线很强，修剪后的枝梢却没有顺着力道走。"
+    },
+    {
+      "id": "Q118",
+      "school": "zhejiang",
+      "polarity": "improve",
+      "score_band": [
+        0,
+        89
+      ],
+      "tags": [
+        "deciduous_sparse_elegant",
+        "branch_order"
+      ],
+      "text": "杂木为了疏而断气，关键承接枝仍需保留。"
+    },
+    {
+      "id": "Q119",
+      "school": "zhejiang",
+      "polarity": "improve",
+      "score_band": [
+        0,
+        89
+      ],
+      "tags": [
+        "bold_control",
+        "balance"
+      ],
+      "text": "豪放已经有余，盆内重心与枝序还需收束。"
+    },
+    {
+      "id": "Q120",
+      "school": "zhejiang",
+      "polarity": "improve",
+      "score_band": [
+        0,
+        89
+      ],
+      "tags": [
+        "school_fit",
+        "rhythm"
+      ],
+      "text": "层次清楚但变化偏少，再添一处开合，气韵会更长。"
+    }
+  ]
+}
+

@@ -1,0 +1,388 @@
+{
+  "assessment_id": "demo-lingnan-001",
+  "image": {
+    "path": "demo-bonsai.svg",
+    "fitness_notes": [
+      "单正面示例图",
+      "根盘和盆器可见",
+      "无法评价真实健康和背面枝序"
+    ]
+  },
+  "subject": {
+    "display_name": "岭南·回风",
+    "species_candidates": [
+      {
+        "name": "榔榆（示意）",
+        "latin": "Ulmus parvifolia",
+        "confidence": 0.82,
+        "evidence": "小叶杂木轮廓与示例设定"
+      }
+    ],
+    "school_profile": "lingnan",
+    "form_style": "岭南大树型 / 曲干"
+  },
+  "assessment_confidence": 68,
+  "health_gate": "none",
+  "scores": {
+    "far_view": {
+      "label": "远观势",
+      "max": 25,
+      "items": [
+        {
+          "label": "主宾与构图",
+          "score": 7,
+          "max": 8,
+          "reason": "主干与右展枝形成主势",
+          "evidence_ids": [
+            "E1"
+          ]
+        },
+        {
+          "label": "动势与气脉",
+          "score": 5,
+          "max": 6,
+          "reason": "根至顶线连续",
+          "evidence_ids": [
+            "E1"
+          ]
+        },
+        {
+          "label": "平衡与重心",
+          "score": 4,
+          "max": 5,
+          "reason": "左右展枝互相制衡",
+          "evidence_ids": [
+            "E1",
+            "E3"
+          ]
+        },
+        {
+          "label": "虚实与留白",
+          "score": 3,
+          "max": 4,
+          "reason": "片间有窗，左下略密",
+          "evidence_ids": [
+            "E2"
+          ]
+        },
+        {
+          "label": "正面可读性",
+          "score": 2,
+          "max": 2,
+          "reason": "干线清楚",
+          "evidence_ids": [
+            "E1"
+          ]
+        }
+      ],
+      "subtotal": 21.0
+    },
+    "middle_view": {
+      "label": "中观骨",
+      "max": 25,
+      "items": [
+        {
+          "label": "根盘与入土",
+          "score": 3,
+          "max": 5,
+          "reason": "入土稳定但根盘细节有限",
+          "evidence_ids": [
+            "E4"
+          ]
+        },
+        {
+          "label": "主干收尖",
+          "score": 5,
+          "max": 6,
+          "reason": "由基至顶连续收细",
+          "evidence_ids": [
+            "E1"
+          ]
+        },
+        {
+          "label": "干线变化",
+          "score": 4,
+          "max": 5,
+          "reason": "曲折有停顿",
+          "evidence_ids": [
+            "E1"
+          ]
+        },
+        {
+          "label": "主枝秩序",
+          "score": 4,
+          "max": 5,
+          "reason": "左右枝职责明确",
+          "evidence_ids": [
+            "E2",
+            "E3"
+          ]
+        },
+        {
+          "label": "枝级与比例",
+          "score": 3,
+          "max": 4,
+          "reason": "枝径递减成立",
+          "evidence_ids": [
+            "E2",
+            "E3"
+          ]
+        }
+      ],
+      "subtotal": 19.0
+    },
+    "near_view": {
+      "label": "近观功",
+      "max": 20,
+      "items": [
+        {
+          "label": "剪扎与伤口",
+          "score": 4,
+          "max": 5,
+          "reason": "示意结构无明显硬折",
+          "evidence_ids": [
+            "E1"
+          ]
+        },
+        {
+          "label": "细枝与节间",
+          "score": 3,
+          "max": 5,
+          "reason": "示例叶片遮住末级枝",
+          "evidence_ids": [
+            "E2"
+          ]
+        },
+        {
+          "label": "尺度幻觉",
+          "score": 2,
+          "max": 3,
+          "reason": "树盆比例可信",
+          "evidence_ids": [
+            "E4"
+          ]
+        },
+        {
+          "label": "盆树相宜",
+          "score": 3,
+          "max": 4,
+          "reason": "浅盆承托横向树势",
+          "evidence_ids": [
+            "E4"
+          ]
+        },
+        {
+          "label": "铺面与展陈",
+          "score": 2,
+          "max": 3,
+          "reason": "土面简洁",
+          "evidence_ids": [
+            "E4"
+          ]
+        }
+      ],
+      "subtotal": 14.0
+    },
+    "living_view": {
+      "label": "活观生",
+      "max": 15,
+      "items": [
+        {
+          "label": "可见健康",
+          "score": 6,
+          "max": 8,
+          "reason": "示意叶色均匀；非真实诊断",
+          "evidence_ids": [
+            "E2",
+            "E3"
+          ]
+        },
+        {
+          "label": "因树施艺",
+          "score": 3,
+          "max": 4,
+          "reason": "杂木枝托与大树型相容",
+          "evidence_ids": [
+            "E1"
+          ]
+        },
+        {
+          "label": "可持续前景",
+          "score": 2,
+          "max": 3,
+          "reason": "仍有细枝优化空间",
+          "evidence_ids": [
+            "E2"
+          ]
+        }
+      ],
+      "subtotal": 11.0
+    },
+    "school_fit": {
+      "label": "岭南派校准",
+      "max": 15,
+      "items": [
+        {
+          "label": "蓄枝截干过渡",
+          "score": 2,
+          "max": 3,
+          "reason": "主干接续可读",
+          "evidence_ids": [
+            "E1"
+          ]
+        },
+        {
+          "label": "枝托代际",
+          "score": 2,
+          "max": 3,
+          "reason": "主枝至末梢有递细",
+          "evidence_ids": [
+            "E2",
+            "E3"
+          ]
+        },
+        {
+          "label": "大树缩影/画意",
+          "score": 3,
+          "max": 3,
+          "reason": "旷野大树主题鲜明",
+          "evidence_ids": [
+            "E1"
+          ]
+        },
+        {
+          "label": "疏密跌宕",
+          "score": 2,
+          "max": 3,
+          "reason": "左右枝托开合成立",
+          "evidence_ids": [
+            "E2",
+            "E3"
+          ]
+        },
+        {
+          "label": "岭南树性",
+          "score": 2,
+          "max": 3,
+          "reason": "按榔榆示意设定",
+          "evidence_ids": [
+            "E2"
+          ]
+        }
+      ],
+      "subtotal": 11.0
+    },
+    "base_total": 65.0,
+    "raw_total": 76.0,
+    "final_total": 76.0,
+    "grade": "佳作",
+    "uncertainty": 4
+  },
+  "evidence": [
+    {
+      "id": "E1",
+      "label": "主干气脉",
+      "bbox": [
+        0.39,
+        0.1,
+        0.24,
+        0.67
+      ],
+      "observation": "主干由基部曲折上行并连续收细",
+      "confidence": 0.91
+    },
+    {
+      "id": "E2",
+      "label": "左侧枝托",
+      "bbox": [
+        0.15,
+        0.27,
+        0.25,
+        0.36
+      ],
+      "observation": "两组左枝形成上下开合",
+      "confidence": 0.86
+    },
+    {
+      "id": "E3",
+      "label": "右侧枝托",
+      "bbox": [
+        0.58,
+        0.22,
+        0.25,
+        0.34
+      ],
+      "observation": "右展枝拉出主要方向并与左侧制衡",
+      "confidence": 0.88
+    },
+    {
+      "id": "E4",
+      "label": "根盆关系",
+      "bbox": [
+        0.28,
+        0.7,
+        0.45,
+        0.19
+      ],
+      "observation": "树植位与浅盆横向比例基本协调",
+      "confidence": 0.78
+    }
+  ],
+  "verdict": {
+    "one_liner": "主干气脉和大树缩影已经成立，下一步应把左下枝团从“有量”细化成“有层”。",
+    "strengths": [
+      "主干收尖连续",
+      "左右动势在浅盆上取得平衡",
+      "岭南大树型身份清楚"
+    ],
+    "weaknesses": [
+      "左下枝托略厚",
+      "根盘放射细节不足",
+      "末级枝被叶量遮住"
+    ],
+    "not_judged": [
+      "背面枝序",
+      "真实树势与土壤含水量",
+      "病虫与根系内部"
+    ]
+  },
+  "matched_lines": {
+    "praise": "树不高而有旷野巨木之势，矮仔大树的气象已经立住。",
+    "improve": "枝托有形却无代际，先养一级枝粗度，再谈末梢成片。"
+  },
+  "plan": {
+    "now_7_days": [
+      {
+        "action": "补拍左右 45° 与根盘近照",
+        "why": "确认枝序深度与入土",
+        "timing": "光线均匀时",
+        "risk": "low",
+        "prerequisites": "相机与盆沿同高",
+        "expected_effect": "提高评审置信度",
+        "avoid_if": "无"
+      }
+    ],
+    "next_season": [
+      {
+        "action": "左下枝托疏除内向与重叠细枝",
+        "why": "打开层次而不改变主枝",
+        "timing": "树种确认且新梢成熟后",
+        "risk": "medium",
+        "prerequisites": "树势旺、无近期翻盆",
+        "expected_effect": "提高虚实与细枝分",
+        "avoid_if": "新梢弱或叶色异常"
+      }
+    ],
+    "one_to_three_years": [
+      {
+        "action": "以蓄放—回剪建立三级枝",
+        "why": "让枝托出现粗细代际",
+        "timing": "连续生长季分步完成",
+        "risk": "medium",
+        "prerequisites": "稳定光水肥",
+        "expected_effect": "提升岭南适配与尺度幻觉",
+        "avoid_if": "根系问题未解决"
+      }
+    ]
+  }
+}

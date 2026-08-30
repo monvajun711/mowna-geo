@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 720" role="img" aria-label="赛博盆景示例插画">
+  <defs>
+    <radialGradient id="bg"><stop stop-color="#263529"/><stop offset="1" stop-color="#090d0a"/></radialGradient>
+    <linearGradient id="pot" x2="0" y2="1"><stop stop-color="#74c9b0"/><stop offset="1" stop-color="#244b43"/></linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="900" height="720" fill="url(#bg)"/>
+  <g fill="none" stroke="#263c2b" opacity=".35"><path d="M0 120h900M0 240h900M0 360h900M0 480h900M150 0v720M300 0v720M450 0v720M600 0v720M750 0v720"/></g>
+  <ellipse cx="455" cy="628" rx="250" ry="24" fill="#050705" opacity=".7"/>
+  <path d="M265 545h380l-32 92H297z" fill="url(#pot)" stroke="#a6e7d3" stroke-width="4"/>
+  <path d="M300 548q155-36 310 0" fill="#101a12" stroke="#628568" stroke-width="5"/>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M430 548C395 500 408 445 456 405C502 366 458 331 478 278C495 232 556 205 534 135" stroke="#78543c" stroke-width="48"/>
+    <path d="M430 548C395 500 408 445 456 405C502 366 458 331 478 278C495 232 556 205 534 135" stroke="#b78459" stroke-width="8" opacity=".55"/>
+    <path d="M441 507C365 484 311 445 273 391" stroke="#78543c" stroke-width="22"/>
+    <path d="M454 407C535 411 603 382 660 328" stroke="#78543c" stroke-width="20"/>
+    <path d="M470 340C397 326 349 290 318 246" stroke="#78543c" stroke-width="16"/>
+    <path d="M489 270C548 275 595 252 629 214" stroke="#78543c" stroke-width="14"/>
+    <path d="M519 205C476 190 448 167 427 132" stroke="#78543c" stroke-width="11"/>
+    <path d="M273 391l-58-39M273 391l-33 38M318 246l-66-31M318 246l-30 44M660 328l55-36M660 328l34 44M629 214l45-38M534 135l31-49" stroke="#926746" stroke-width="8"/>
+  </g>
+  <g fill="#a9f45d" opacity=".94" filter="url(#glow)">
+    <ellipse cx="219" cy="348" rx="77" ry="31"/><ellipse cx="240" cy="421" rx="65" ry="27"/>
+    <ellipse cx="286" cy="220" rx="84" ry="31"/><ellipse cx="300" cy="285" rx="67" ry="28"/>
+    <ellipse cx="671" cy="287" rx="92" ry="34"/><ellipse cx="686" cy="370" rx="67" ry="27"/>
+    <ellipse cx="645" cy="177" rx="75" ry="30"/><ellipse cx="425" cy="126" rx="69" ry="28"/>
+    <ellipse cx="545" cy="86" rx="73" ry="34"/>
+  </g>
+  <g fill="#eaf6df" font-family="sans-serif" font-size="18"><text x="38" y="55">DEMO SPECIMEN · 岭南大树型</text><text x="38" y="82" opacity=".6">Synthetic illustration — not a real plant diagnosis</text></g>
+</svg>
+

@@ -1,0 +1,111 @@
+version: "1.0"
+method_note: "Each school contributes 15 points through five 0-3 signals. Profiles summarize sourced characteristics for game scoring; they are not official competition rules."
+profiles:
+  lingnan:
+    name_zh: "岭南派"
+    aliases: ["岭南盆景", "广府盆景"]
+    signature: "蓄枝截干、因树取势；大树型雄浑或素仁格清疏。"
+    source_ids: ["CN-LINGNAN-HUNAN-2010", "CN-FORMS-HUNAN-2013"]
+    signals:
+      - {id: "chop_grow_continuity", label: "蓄枝截干过渡", max: 3, evidence: "截口被后续枝接续，收尖自然，无突兀香肠段"}
+      - {id: "branch_lineage", label: "枝托代际", max: 3, evidence: "一级至细枝由粗到细、由老到嫩，角爪清楚"}
+      - {id: "natural_tree_image", label: "大树缩影/画意", max: 3, evidence: "雄浑大树型或清疏高耸型主题明确"}
+      - {id: "density_rhythm", label: "疏密跌宕", max: 3, evidence: "枝托有开合，跌枝或飘枝有功能，不成平均团块"}
+      - {id: "species_climate_fit", label: "岭南树性", max: 3, evidence: "常用杂木树性、旺长节律与修剪法相容"}
+    anti_patterns: ["把每个枝团剪成同样云片", "截口连续肿大却无过渡", "为显老而滥做阔叶死木"]
+  yangzhou:
+    name_zh: "扬派"
+    aliases: ["扬州派", "扬派盆景", "泰州扬派"]
+    signature: "一寸三弯、精扎细剪、云片严整而有山林气。"
+    source_ids: ["CN-IHCHINA-YANG-870", "CN-FIVE-SCHOOLS-HUNAN-2"]
+    signals:
+      - {id: "inch_three_bends", label: "一寸三弯", max: 3, evidence: "短枝细弯有节奏，非僵硬折线"}
+      - {id: "cloud_pads", label: "云片功夫", max: 3, evidence: "枝片薄、平、清楚，大小随树势变化"}
+      - {id: "pad_spacing", label: "层次与间距", max: 3, evidence: "片间不重叠、不机械平行，留白清楚"}
+      - {id: "dragon_trunk", label: "游龙干势", max: 3, evidence: "干弯舒卷，云片落在受力合理位置"}
+      - {id: "formal_natural_balance", label: "工稳中见自然", max: 3, evidence: "严整端庄却不僵，不以整齐压过生气"}
+    anti_patterns: ["所有云片同尺寸同距离", "枝片厚成圆球", "为三弯而三弯导致折伤或蛇形重复"]
+  suzhou:
+    name_zh: "苏派"
+    aliases: ["苏派盆景", "苏州派"]
+    signature: "古雅拙朴、粗扎细剪、结顶自然、潇洒隽秀。"
+    source_ids: ["CN-SUZHOU-HUNAN-2011", "CN-FIVE-SCHOOLS-HUNAN-2"]
+    signals:
+      - {id: "old_vigorous_material", label: "古雅老健", max: 3, evidence: "素材显老而树势不衰"}
+      - {id: "coarse_wire_fine_prune", label: "粗扎细剪", max: 3, evidence: "骨架经引导，末级以修剪形成自然细化"}
+      - {id: "natural_apex", label: "结顶自然", max: 3, evidence: "顶部承接干势，不呈突兀帽顶"}
+      - {id: "painting_composition", label: "画意章法", max: 3, evidence: "主次、开合、虚实有江南画意"}
+      - {id: "elegant_restraint", label: "潇洒隽秀", max: 3, evidence: "轻灵、克制、不过度堆枝"}
+    anti_patterns: ["顶冠过圆过重", "细枝平均修成篱笆", "古桩与幼枝年龄感割裂"]
+  sichuan:
+    name_zh: "川派"
+    aliases: ["川派盆景", "四川盆景"]
+    signature: "传统身法严谨，弯拐顿挫，悬根露爪；亦容纳自然类。"
+    source_ids: ["CN-CHENGDU-ICH-SICHUAN", "CN-FORMS-HUNAN-2013"]
+    signals:
+      - {id: "body_method", label: "身法成立", max: 3, evidence: "掉拐、滚龙抱柱等身法或自然式选择清楚"}
+      - {id: "turning_rhythm", label: "弯拐顿挫", max: 3, evidence: "弯中有停、转折有受力，不是均匀弹簧"}
+      - {id: "root_claw", label: "悬根露爪", max: 3, evidence: "露根稳定且与干势相应"}
+      - {id: "majestic_oddity", label: "古雅奇特", max: 3, evidence: "奇不怪、险能稳，具有山川气"}
+      - {id: "craft_control", label: "蟠扎控制", max: 3, evidence: "传统程式服务主题，无勒痕和硬折"}
+    anti_patterns: ["均匀螺旋", "露根悬空无抓地", "身法标签替代整体构图"]
+  shanghai:
+    name_zh: "海派"
+    aliases: ["海派盆景", "上海盆景"]
+    signature: "博采众长、有法无式、扎剪并重、主题与层次多变。"
+    source_ids: ["CN-SHANGHAI-STORY-2022", "CN-SHANGHAI-FLORA-2025"]
+    signals:
+      - {id: "eclectic_coherence", label: "融汇而统一", max: 3, evidence: "借多派技法但主题不杂"}
+      - {id: "wire_prune_balance", label: "扎剪并重", max: 3, evidence: "金属丝塑骨、修剪成枝，工痕受控"}
+      - {id: "theme_layers_change", label: "主题层次多变", max: 3, evidence: "枝片大小、形状、疏密有变化"}
+      - {id: "species_individuality", label: "随类赋形", max: 3, evidence: "尊重树种个性，不强套松柏模板"}
+      - {id: "urban_refinement", label: "明快精巧", max: 3, evidence: "小而精或陈设完整，视觉流畅"}
+    anti_patterns: ["混搭无中心", "铁丝勒痕", "枝片数量多但同质化"]
+  anhui:
+    name_zh: "徽派"
+    aliases: ["徽派盆景", "徽州盆景"]
+    signature: "苍古奇特、刚劲庄重，干拙枝巧，藏露得宜。"
+    source_ids: ["CN-HUANGSHAN-HUI-2018"]
+    signals:
+      - {id: "ancient_odd_natural", label: "苍古奇特", max: 3, evidence: "古态、奇势与自然可信度并存"}
+      - {id: "trunk_clumsy_branch_clever", label: "干拙枝巧", max: 3, evidence: "主干朴拙厚重，枝叶灵巧秀气"}
+      - {id: "hide_reveal", label: "藏露得宜", max: 3, evidence: "主线有遮有露，关键节点不被堵死"}
+      - {id: "solemn_strength", label: "刚劲庄重", max: 3, evidence: "重心稳定、气质端凝"}
+      - {id: "hui_form_identity", label: "徽式身份", max: 3, evidence: "游龙、三台、迎客、梅桩等语汇与树材一致"}
+    anti_patterns: ["对称到呆板", "奇形胜过树性", "枝叶精巧却与苍老主干断代"]
+  nantong:
+    name_zh: "通派/如派"
+    aliases: ["通派盆景", "如派盆景", "南通盆景", "两弯半"]
+    signature: "两弯半、狮式、四面可观，造型严谨、工艺精细。"
+    source_ids: ["CN-NANTONG-2019", "CN-NANTONG-RUGAO-ICH"]
+    signals:
+      - {id: "two_half_bends", label: "两弯半", max: 3, evidence: "座地弯、第二弯、半弯关系清楚"}
+      - {id: "lion_posture", label: "狮式神态", max: 3, evidence: "顿节、抬头、回项有动态而非图案"}
+      - {id: "four_side_view", label: "四面可观", max: 3, evidence: "前后左右均有枝与空间，非单面贴片"}
+      - {id: "pad_top_order", label: "片顶秩序", max: 3, evidence: "上捧下蹲、圆顶收束，层次严谨"}
+      - {id: "precision_natural", label: "精工自然", max: 3, evidence: "棕丝或金属丝工艺细而不僵"}
+    anti_patterns: ["S 弯平均机械", "狮式靠象形配件", "正面严整而背面空洞"]
+  zhejiang:
+    name_zh: "浙派"
+    aliases: ["浙派盆景", "浙江盆景"]
+    signature: "松柏重刚健、尚气韵、求风骨；杂木疏朗清丽、转折有韵。"
+    source_ids: ["CN-ZHEJIANG-HUNAN-2004", "CN-ZHEJIANG-FRONTIER"]
+    signals:
+      - {id: "strength_spirit_bone", label: "刚健气韵风骨", max: 3, evidence: "松柏干枝舒展有力且层次清楚"}
+      - {id: "high_trunk_group", label: "高干/合栽章法", max: 3, evidence: "高干、双干、三干或丛林有主次"}
+      - {id: "twist_prune_fit", label: "松柏扭扎剪辅", max: 3, evidence: "扭扎塑势，修剪整理，不留机械线"}
+      - {id: "deciduous_sparse_elegant", label: "杂木疏朗清丽", max: 3, evidence: "杂木剪截后分枝角度有韵、不过密"}
+      - {id: "bold_control", label: "豪放中见严谨", max: 3, evidence: "舒展但重心、枝序与盆配受控"}
+    anti_patterns: ["松柏枝团碎小无风骨", "高干合栽等高等距", "杂木为了疏而断气"]
+  unaffiliated:
+    name_zh: "当代自然/混合风格"
+    aliases: ["自然式", "现代式", "混合流派", "未定流派"]
+    signature: "不以地域标签定高低，以自然可信、主题统一与个人语言评审。"
+    source_ids: ["BCI-JUDGING-2014-1", "LIVING-ART-JUDGING-FORM"]
+    signals:
+      - {id: "natural_credibility", label: "自然可信", max: 3, evidence: "结构像真实树木受环境塑造的结果"}
+      - {id: "theme_coherence", label: "主题统一", max: 3, evidence: "根、干、枝、冠、盆共同叙述一个主题"}
+      - {id: "personal_language", label: "个人语言", max: 3, evidence: "有辨识度但不靠猎奇"}
+      - {id: "cultural_literacy", label: "文化语汇", max: 3, evidence: "画意、季相或地域气质有根据"}
+      - {id: "restraint", label: "克制与取舍", max: 3, evidence: "没有为展示技法而堆砌技法"}
+    anti_patterns: ["把无章法称为自然", "以奇代美", "流派元素拼贴"]
