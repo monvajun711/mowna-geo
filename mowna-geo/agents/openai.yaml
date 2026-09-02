@@ -1,0 +1,9 @@
+interface:
+  display_name: "魔女GEO"
+  short_description: "从基线诊断到 30 天战役的 GEO 实操课程"
+  icon_small: "./icon.svg"
+  icon_large: "./cover.png"
+  brand_color: "#D6B45A"
+  default_prompt: "使用 $mowna-geo 带我从 AI 可见度基线开始，逐关完成 GEO 实操课程。"
+policy:
+  allow_implicit_invocation: true

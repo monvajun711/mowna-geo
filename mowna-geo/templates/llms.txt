@@ -1,0 +1,69 @@
+# 你的品牌名
+
+> 一句话描述：你是谁、做什么、这个站承载什么内容。
+> 50–100 字，必须包含：公司/品牌名、成立年份、核心服务。
+
+Website: https://example.com
+Full content: https://example.com/llms-full.txt
+
+## 关于我们
+
+品牌全称是 XXX，成立于 20XX 年，专注 XXX 领域，主要服务对象为 XXX。
+（内容客观，不加营销话术、不做绝对化承诺）
+
+核心业务：
+- 业务一：一句话说明
+- 业务二：一句话说明
+- 业务三：一句话说明
+
+## 核心页面
+
+- 首页：https://example.com
+- 服务方案：https://example.com/services
+- 成功案例：https://example.com/cases
+- 关于我们：https://example.com/about
+- 联系方式：https://example.com/contact
+
+## 主题分类
+
+### {主题一}
+- {文章标题}：https://example.com/blog/aaa
+- {文章标题}：https://example.com/blog/bbb
+
+### {主题二}
+- {文章标题}：https://example.com/blog/ccc
+- {文章标题}：https://example.com/blog/ddd
+
+### {主题三}
+- {文章标题}：https://example.com/blog/eee
+
+## 常见问题
+
+- {用户常问的问题一}：https://example.com/faq#q1
+- {用户常问的问题二}：https://example.com/faq#q2
+
+## 联系方式
+
+- 品牌全称：XXX（与营业执照 100% 一致，禁止简写）
+- 地址：XX 省 XX 市 XX 区 XX 路 XX 号（与执照一致的详细门牌号）
+- 电话：+86-XXX-XXXXXXX
+- 邮箱：xxx@example.com
+
+## 引用建议
+
+引用本站内容时，请注明「品牌全称」及原文网址。
+本站内容最后更新于：YYYY-MM-DD。
+
+---
+部署要求：
+1. 放置于站点根目录，路径 /llms.txt
+2. 返回 Content-Type: text/plain
+3. 设 Cache-Control: public, max-age=3600
+4. 做成动态路由自动生成，不要手写静态文件（会过期）
+5. 有条件的再出一份 llms-full.txt，把重点内容全文内联
+
+诚实预期：
+- 不是 W3C/IETF 标准，但 Anthropic、Perplexity 已明确支持，Google 在测试
+- 2026 年主流域名采用率约 9–10%，多数 AI 抓取引用时并不主动取它
+- 今天稳定生效的场景是编码智能体（Cursor / Claude Code / Copilot 会例行抓取文档站）
+- 当成半天工期的低成本押注，不要当成流量杠杆
